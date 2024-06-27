@@ -48,7 +48,7 @@ devDependencies:
     version: 8.57.0
   mocha:
     specifier: ^10.2.0
-    version: 10.5.1
+    version: 10.5.2
   nodemon:
     specifier: ^3.0.1
     version: 3.1.4
@@ -1887,6 +1887,7 @@ packages:
 
   /glob@7.2.3:
     resolution: {integrity: sha512-nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==}
+    deprecated: Glob versions prior to v9 are no longer supported
     dependencies:
       fs.realpath: 1.0.0
       inflight: 1.0.6
@@ -2635,8 +2636,8 @@ packages:
     resolution: {integrity: sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==}
     dev: true
 
-  /mocha@10.5.1:
-    resolution: {integrity: sha512-eq5tEnaz2kM9ade8cuGJBMh5fBb9Ih/TB+ddlmPR+wLQmwLhUwa0ovqDlg7OTfKquW0BI7NUcNWX7DH8sC+3gw==}
+  /mocha@10.5.2:
+    resolution: {integrity: sha512-9btlN3JKCefPf+vKd/kcKz2SXxi12z6JswkGfaAF0saQvnsqLJk504ZmbxhSoENge08E9dsymozKgFMTl5PQsA==}
     engines: {node: '>= 14.0.0'}
     hasBin: true
     dependencies:
