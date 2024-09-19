@@ -51,7 +51,7 @@ devDependencies:
     version: 10.7.3
   nodemon:
     specifier: ^3.0.1
-    version: 3.1.5
+    version: 3.1.6
   nyc:
     specifier: ^15.1.0
     version: 15.1.0
@@ -2727,8 +2727,8 @@ packages:
     resolution: {integrity: sha512-y10wOWt8yZpqXmOgRo77WaHEmhYQYGNA6y421PKsKYWEK8aW+cqAphborZDhqfyKrbZEN92CN1X2KbafY2s7Yw==}
     dev: true
 
-  /nodemon@3.1.5:
-    resolution: {integrity: sha512-V5UtfYc7hjFD4SI3EzD5TR8ChAHEZ+Ns7Z5fBk8fAbTVAj+q3G+w7sHJrHxXBkVn6ApLVTljau8wfHwqmGUjMw==}
+  /nodemon@3.1.6:
+    resolution: {integrity: sha512-C8ymJbXpTTinxjWuMfMxw0rZhTn/r7ypSGldQyqPEgDEaVwAthqC0aodsMwontnAInN9TuPwRLeBoyhmfv+iSA==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
